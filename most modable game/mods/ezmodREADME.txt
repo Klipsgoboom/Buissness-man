@@ -1,0 +1,1 @@
+ez mod adds features into the game that will make modifying it way easier. Premade variable editors, strings etc.
